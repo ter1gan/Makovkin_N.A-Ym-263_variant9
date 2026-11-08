@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "A",
+    "category": "c",
+    "amount": 1,
+    "completed": true
+  },
+  {
+    "id": 2,
+    "title": "B",
+    "category": "c",
+    "amount": 1,
+    "completed": false
+  },
+  {
+    "id": 3,
+    "title": "Задача",
+    "category": "учёба",
+    "amount": 7,
+    "completed": false
+  }
+]
